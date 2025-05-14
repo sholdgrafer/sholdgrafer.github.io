@@ -1,4 +1,4 @@
 baseURL = 'https://sholdgrafer.github.io/'
 languageCode = 'en-us'
 title = 'Sarah Holdgrafer Techical Communicator'
-theme = 'ga-hugo-theme'
+theme = "ananke" 
